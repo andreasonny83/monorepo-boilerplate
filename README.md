@@ -1,9 +1,9 @@
 [![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 
-# Package Changelog Scraper
+# Monorepo Boilerplate
 
-> A sample Package Changelog Scraper
+> A sample monorepo project
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@ v20.11.1
 
 ## Table of contents
 
-- [Package Changelog Scraper](#package-changelog-scraper)
+- [Monorepo Boilerplate](#monorepo-boilerplate)
   - [Prerequisites](#prerequisites)
   - [Table of contents](#table-of-contents)
   - [Getting Started](#getting-started)
